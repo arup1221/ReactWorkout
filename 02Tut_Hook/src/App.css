@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  background-color: white;
+  color: whitesmoke;
+  min-height: 100vh;
+}
+
+.header{
+  background-color: yellow;
+}
+
+.footer{
+  background-color: blue;
+}
+
+h1{
+  margin: 0;
+}
+
+.header{
+  background-color: rgb(23,32,135);
+  padding: 8px;
+}
+.main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+  height: 90vh;
+  flex-wrap: wrap;
+  padding: 14px;
+  
+}
+.buttons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn{
+  background-color: blue;
+  color: white;
+  padding: 5px;
+  margin: 5px;
+}
+.heading {
+  color: black;
+  font-size: 80px;
+  margin: 10px;
+}
+
+
